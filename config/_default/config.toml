@@ -58,7 +58,7 @@ title = "Gallery"
 
 [menu]
   [[menu.footer]]
-    name = "Love, peace & Unity"
+    name = "Love,Peace & Unity"
     url = "https://photos.app.goo.gl/RZ2fqE2KSkuiL3cB9"
     weight = 3
 
